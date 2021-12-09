@@ -1,0 +1,25 @@
+*{
+font-size: 14px;
+}
+
+header, .navbar {
+    background-color: darkgray;
+}
+
+#logo{
+    margin-left: 50px;
+    width: 100px;
+}
+
+#navbar-links{
+    margin-right: 150px;
+}
+
+#navbar-links a {
+    color: white;
+    font-size: 10;
+}
+
+#navbar-links a:hover {
+    color:darkturquoise;
+}
